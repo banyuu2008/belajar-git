@@ -1,1 +1,3 @@
-vdfdbdd
+Dark Mode Toggle
+Tombol untuk mengubah tema menjadi gelap.
+Menghemat baterai dan mengurangi ketegangan mata.
